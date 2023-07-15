@@ -1,6 +1,7 @@
 function Home() {
   return (
     <>
+      <title>Log Town Hub - O começo!</title>
       <h1>
         Obrigado por ser o meu porto seguro e estar sempre comigo! Amo você!!
       </h1>
